@@ -48,26 +48,26 @@
 ## <div align="center">📊 GitHub Analytics</div>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebeljelly2147&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeljelly2147&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" align="middle"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rebeljelly2147&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebeljelly2147&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" align="middle"/>
 </p>
 
 ## <div align="center">📈 Contribution Graph</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rebeljelly2147&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
 
 ## <div align="center">🤝 Connect With Me</div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/rebeljelly2147">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://twitter.com/rebeljelly2147">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:your.email@example.com">
@@ -77,13 +77,13 @@
 
 <div align="center">
   <h2>🐍 Watch my contribution graph get eaten by the snake</h2>
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/rebeljelly2147/rebeljelly2147/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rebeljelly2147&color=blueviolet&style=for-the-badge" alt="Profile views"/>
   
   <h4>🎯 If you like my projects, Give them ⭐ and Share them!</h4>
 </div>
