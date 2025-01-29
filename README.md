@@ -77,11 +77,11 @@
 
 <div align="center">
   <h2>🐍 Watch my contribution graph get eaten by the snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rebeljelly2147/rebeljelly2147/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rebeljelly2147/rebeljelly2147/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rebeljelly2147/rebeljelly2147/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 </div>
 
 ---
